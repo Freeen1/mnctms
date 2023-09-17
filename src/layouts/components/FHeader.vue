@@ -15,6 +15,6 @@
 import { Management } from '@element-plus/icons-vue'
 </script>
 
-<style setup>
+<style scoped>
 
 </style>

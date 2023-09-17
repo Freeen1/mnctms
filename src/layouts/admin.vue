@@ -11,7 +11,7 @@
       <div class="f-user">
         <el-container>
           <el-header ><UHeader></UHeader></el-header >
-          <el-main>个人中心</el-main>
+          <el-main><ITagList></ITagList></el-main>
         </el-container>
       </div>
     </el-container>
@@ -24,6 +24,7 @@ import FMenu from './components/FMenu.vue';
 import FHeader from './components/FHeader.vue';
 import UHeader from './components/UHeader.vue';
 import FTagList from './components/FTagList.vue';
+import ITagList from './components/ITagList.vue'
 </script>
 
 <style setup>

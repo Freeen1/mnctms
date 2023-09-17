@@ -2,7 +2,7 @@
     <el-header>
         <div class="h-[65px] flex items-center mb-10">
             <div class="flex items-center w-[345px] h-[65px]">
-                <el-avatar :size="67" class="cover" @error="errorHandler">
+                <el-avatar :size="67" class="cover">
                     <img src="http://localhost:5173/src/assets/exp5.png"/>
                 </el-avatar>
                 <el-space direction="vertical" class="username">
